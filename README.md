@@ -1,1 +1,1 @@
-# Solitare.py
+# Solitare
